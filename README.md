@@ -7,6 +7,9 @@ This is a CLI version of a modified blackjack card game using Python. The game h
  6. Cards drawn do not disappear from the deck.
  7. Computer deals cards for you.
 
+<img width="1288" height="567" alt="Screenshot 2026-07-09 at 6 48 19 PM" src="https://github.com/user-attachments/assets/b68d14f9-7653-4380-9454-366f25c0d0af" />
+
+
 This program was made in order to demonstrate my understanding of some key concepts in procedural programming, namely: 
   1. Control flow. 
   2. Looping and conditional statements.
